@@ -12,7 +12,7 @@ int main()
     }
     else
     {
-        cout << "\nThe Number " << n << " Is Not Prime...!!!\n" ;
+        cout << "\nThe Number " << n << " Is Not Prime...!\n" ;
     }
     return 0 ;
 }
